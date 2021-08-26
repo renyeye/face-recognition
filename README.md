@@ -10,9 +10,9 @@ pillow  numpy   matplotlib  tensorflow
 
 2.数据集来源
 
-faces_4图片集源自：http://www.cs.cmu.edu/~tom/mlbook.html
+faces_4为灰白数据集，源自：http://www.cs.cmu.edu/~tom/mlbook.html
 
-faces_colorful图片集源自CelebA，作者从其中筛选了男女各40张图片
+faces_colorful为彩色数据集，源自CelebA，作者从其中筛选了男女各40张图片
 
 3.内容
 
